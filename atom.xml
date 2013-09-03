@@ -4,7 +4,7 @@
   <title><![CDATA[Pittsburgh Fabric]]></title>
   <link href="http://littleidea.github.io/PittsburghFabric/atom.xml" rel="self"/>
   <link href="http://littleidea.github.io/PittsburghFabric/"/>
-  <updated>2013-08-26T16:14:01-04:00</updated>
+  <updated>2013-09-03T00:38:32-04:00</updated>
   <id>http://littleidea.github.io/PittsburghFabric/</id>
   <author>
     <name><![CDATA[Andrew Clay Shafer]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[robin]]></title>
+    <link href="http://littleidea.github.io/PittsburghFabric/blog/2013/09/03/robin/"/>
+    <updated>2013-09-03T00:36:00-04:00</updated>
+    <id>http://littleidea.github.io/PittsburghFabric/blog/2013/09/03/robin</id>
+    <content type="html"><![CDATA[<p>Robin can sew anything you can imagine.</p>
+]]></content>
+  </entry>
   
 </feed>

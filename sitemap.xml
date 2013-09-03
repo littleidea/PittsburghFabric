@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://littleidea.github.io/PittsburghFabric/blog/2013/09/03/robin/</loc>
+        <lastmod>2013-09-03T00:38:10-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://littleidea.github.io/PittsburghFabric/about/</loc>
         <lastmod>2013-08-26T15:36:28-04:00</lastmod>
     </url>
     <url>
         <loc>http://littleidea.github.io/PittsburghFabric/blog/archives/</loc>
-        <lastmod>2013-08-26T14:51:56-04:00</lastmod>
+        <lastmod>2013-09-03T00:38:10-04:00</lastmod>
     </url>
     <url>
         <loc>http://littleidea.github.io/PittsburghFabric/blog/categories/</loc>
@@ -14,7 +18,7 @@
     </url>
     <url>
         <loc>http://littleidea.github.io/PittsburghFabric/</loc>
-        <lastmod>2013-08-26T14:51:56-04:00</lastmod>
+        <lastmod>2013-09-03T00:38:10-04:00</lastmod>
     </url>
     <url>
         <loc>http://littleidea.github.io/PittsburghFabric/robots.txt</loc>
